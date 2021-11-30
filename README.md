@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to audiohive on GitHub
 
 You can use the [editor on GitHub](https://github.com/audiohive/audiohive.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
